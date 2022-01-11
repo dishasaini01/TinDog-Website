@@ -1,4 +1,4 @@
-TinDog is a website which aims to find true match for your pet dog.
+TinDog is a website which aims to find new and interesting dogs of different breeds.
 This website is made by using HTML, CSS, and BOOTSTRAP.
 ![2022-01-11](https://user-images.githubusercontent.com/71517596/148975759-924afb0b-7313-4ce5-a1af-bd3456f6fbbb.png)
 ![2022-01-11 (1)](https://user-images.githubusercontent.com/71517596/148975777-ea7f583d-b8f8-4efa-aa29-6b5c6f6bf82f.png)
